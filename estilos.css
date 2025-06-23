@@ -1,0 +1,13 @@
+body{background-color: black;
+  
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+}
+.pantalla{
+    margin: 2rem;
+}
