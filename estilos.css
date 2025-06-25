@@ -13,5 +13,14 @@ input{
     color: white;
     font-size: 4em;
     font-family: monospace;
-    box-shadow: 10px solid;
+
+}
+
+button{
+    font-size: 4rem;
+
+ 
+    align-items: center;
+   gap: 1rem;
+  
 }
